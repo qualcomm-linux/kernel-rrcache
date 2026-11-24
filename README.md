@@ -126,6 +126,11 @@ git rerere gc           # prune old rerere records using Git's expiry rules
 - Keep this repository focused on `rr-cache/` records and documentation.
 - Avoid committing unrelated build output, logs, or source trees.
 
+## License
+
+This repository is licensed under the GNU General Public License version 2. See
+`LICENSE.txt` for the full license text.
+
 ## Troubleshooting
 
 If conflicts are not resolved automatically:
